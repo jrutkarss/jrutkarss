@@ -45,23 +45,23 @@ Evolex Inc is a technology company focused on building and deploying innovative 
 ## Connect with Evolex Inc
 
 - 📧 Email: [hello@evolex.in]
-- 💼 LinkedIn: [https://linkedin.com/company/evolexinc](https://linkedin.com/company/evolexinc)
-- 🌐 Website: [https://evolexinc.com](https://evolex.in)
-- 🐦 Twitter: [https://twitter.com/evolexinc](https://x.com/evolexinc)
+- 💼 LinkedIn: [https://linkedin.com/company/jrutkarss](https://linkedin.com/company/jrutkarss)
+- 🌐 Website: [https://jrutkarss.com](https://evolex.in)
+- 🐦 Twitter: [https://twitter.com/jrutkarss](https://x.com/jrutkarss)
 
 ---
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evolexinc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evolexinc&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrutkarss&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrutkarss&layout=compact&theme=radical" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evolexinc&theme=radical&hide_border=true" alt="evolexinc" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrutkarss&theme=radical&hide_border=true" alt="jrutkarss" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evolexinc&theme=radical&row=1&column=7" alt="evolexinc" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jrutkarss&theme=radical&row=1&column=7" alt="jrutkarss" />
 </div>
 
 
