@@ -1,11 +1,11 @@
-# Hi, welcome to Evolex Inc 👋
+# Hi, welcome to jrutkarss 👋
 
 ### Founder-Led Software Development | Full-Stack Web & Mobile Apps | CRM & ERP Solutions | Automation & Digital Marketing
 
 ---
 
-## About Evolex Inc
-Evolex Inc is a technology company focused on building and deploying innovative **web applications** using PHP (CodeIgniter4, Laravel) and Python (Django). We specialize in CRM and ERP system customizations, automation bots, and digital marketing solutions tailored for startups and growing businesses.
+## About jrutkarss
+jrutkarss is a technology company focused on building and deploying innovative **web applications** using PHP (CodeIgniter4, Laravel) and Python (Django). We specialize in CRM and ERP system customizations, automation bots, and digital marketing solutions tailored for startups and growing businesses.
 
 - 💻 Expertise in designing scalable backend systems and APIs
 - 🚀 Skilled in cloud and shared hosting deployments (Hostinger, Google Cloud)
@@ -42,7 +42,7 @@ Evolex Inc is a technology company focused on building and deploying innovative 
 
 ---
 
-## Connect with Evolex Inc
+## Connect with jrutkarss
 
 - 📧 Email: [hello@evolex.in]
 - 💼 LinkedIn: [https://linkedin.com/company/jrutkarss](https://linkedin.com/company/jrutkarss)
@@ -73,4 +73,4 @@ Evolex Inc is a technology company focused on building and deploying innovative 
 
 ---
 
-Thank you for visiting Evolex Inc's GitHub profile. Explore our repositories and get in touch for collaboration or projects.
+Thank you for visiting jrutkarss's GitHub profile. Explore our repositories and get in touch for collaboration or projects.
