@@ -5,7 +5,7 @@
 ---
 
 ## About jrutkarss
-jrutkarss is a technology company focused on building and deploying innovative **web applications** using PHP (CodeIgniter4, Laravel) and Python (Django). We specialize in CRM and ERP system customizations, automation bots, and digital marketing solutions tailored for startups and growing businesses.
+jrutkarss focused on building and deploying innovative **web applications** using PHP (CodeIgniter4, Laravel) and Python (Django). We specialize in CRM and ERP system customizations, automation bots, and digital marketing solutions tailored for startups and growing businesses.
 
 - 💻 Expertise in designing scalable backend systems and APIs
 - 🚀 Skilled in cloud and shared hosting deployments (Hostinger, Google Cloud)
