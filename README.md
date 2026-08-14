@@ -1,76 +1,81 @@
-# Hi, welcome to jrutkarss 👋
-
-### Founder-Led Software Development | Full-Stack Web & Mobile Apps | CRM & ERP Solutions | Automation & Digital Marketing
+# Hi, I'm Utkarsh 👋
+### Full-Stack Developer | ML Engineer | Founder @ Evolex
 
 ---
 
-## About jrutkarss
-jrutkarss focused on building and deploying innovative **web applications** using PHP (CodeIgniter4, Laravel) and Python (Django). We specialize in CRM and ERP system customizations, automation bots, and digital marketing solutions tailored for startups and growing businesses.
+## About Me
 
-- 💻 Expertise in designing scalable backend systems and APIs
-- 🚀 Skilled in cloud and shared hosting deployments (Hostinger, Google Cloud)
-- 🤖 Creators of automation bots for Google reviews and QR-based workflows
-- 📈 Passionate about SEO, meta ads, and social media management for digital growth
-- 📚 Constantly exploring mobile app packaging, open-source projects, and automation tools
+I build and deploy innovative **web applications** and **machine learning solutions** 
+for startups and growing businesses. As the founder of [Evolex](https://evolex.in), 
+I specialize in CRM/ERP systems, automation bots, and data science projects.
+
+- 💻 Full-stack expertise in PHP (CodeIgniter4, Laravel) and Python (Django, ML)
+- 🤖 Builder of automation bots for Google reviews and QR-based workflows
+- 🧠 ML practitioner — Kaggle competitor with ESA & Russian-domain projects
+- 🚀 Cloud deployments on Google Cloud and Hostinger VPS
+- 📈 Experience in SEO, Meta Ads, and social media growth strategies
 
 ---
 
 ## Core Competencies
 
-| Backend                      | Frontend                    | DevOps & Tools                  | Additional Expertise            |
-|------------------------------|-----------------------------|---------------------------------|---------------------------------|
-| PHP (CodeIgniter4, Laravel)  | HTML, CSS, JavaScript       | Docker, Composer, Git           | Automation Bots                 |
-| Python (Django)              | Bootstrap, Ajax, JQuery     | Google Cloud, Hostinger VPS     | SEO & Digital Marketing         |
-| MySQL, SQL                   |  tailwind css alpinejs      | ERPNext/Frappe Deployment       | CRM & ERP Customization         |
-| API Development              |                             | Payment Gateway Integration     | Twilio SMS & OTP Services       |
+| Backend                     | Frontend                  | DevOps & Tools              | Additional Expertise         |
+|-----------------------------|---------------------------|-----------------------------|------------------------------|
+| PHP (CodeIgniter4, Laravel) | HTML, CSS, JavaScript     | Docker, Git, Composer       | Automation Bots              |
+| Python (Django)             | Bootstrap, jQuery, Ajax   | Google Cloud, Hostinger VPS | SEO & Digital Marketing      |
+| MySQL, SQL                  | Tailwind CSS, Alpine.js   | ERPNext/Frappe Deployment   | CRM & ERP Customization      |
+| REST API Development        |                           | Payment Gateway Integration | Twilio SMS & OTP Services    |
 
 ---
 
 ## Featured Projects
 
-### Evolex CRM System
-- Full-stack CRM management platform with custom views, controllers, and models for client onboarding and operational workflows.
-- Integrated Stripe payment gateways and Twilio messaging APIs for enhanced communication.
+### 🔷 Evolex CRM System
+- Full-stack CRM platform with custom views, controllers, and models for client onboarding.
+- Integrated Stripe payment gateway and Twilio messaging APIs.
 
-### Review Automation Bot
-- Developed an automation workflow to capture Google reviews triggered by QR codes.
-- Implemented using PHP and Python to streamline customer feedback and engagement.
+### 🔷 Russian Car Number Plate Price Prediction
+- ML regression model predicting resale price of Russian vehicle plates from Kaggle data.
+- Worked with real marketplace data from aggregators and Telegram channels.
 
-### ERPNext Deployment & Customization
-- Tailored ERPNext setup and deployment on Linux and cloud environments.
+### 🔷 Fake or Real — The Impostor Hunt (ESA Kaggle Competition)
+- Computer vision model developed for ESA's DataX AI strategy competition on Kaggle.
+- Topics: machine-learning, computer-vision, data-science.
+
+### 🔷 Review Automation Bot
+- Automation workflow capturing Google reviews triggered by QR codes.
+- Built with PHP and Python to streamline customer feedback.
+
+### 🔷 ERPNext Deployment & Customization
+- Tailored ERPNext setup on Linux and cloud environments.
 - Automated migrations and bench commands for efficient CRM operations.
 
 ---
 
-## Connect with jrutkarss
+## GitHub Stats
 
-- 📧 Email: [hello@evolex.in]
-- 💼 LinkedIn: [https://linkedin.com/company/jrutkarss](https://linkedin.com/company/jrutkarss)
-- 🌐 Website: [https://jrutkarss.com](https://evolex.in)
-- 🐦 Twitter: [https://twitter.com/jrutkarss](https://x.com/jrutkarss)
-
----
-## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrutkarss&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrutkarss&layout=compact&theme=radical" />
 </div>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrutkarss&theme=radical&hide_border=true" alt="jrutkarss" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrutkarss&theme=radical&hide_border=true" />
 </div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jrutkarss&theme=radical&row=1&column=7" alt="jrutkarss" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jrutkarss&theme=radical&row=1&column=7" />
 </div>
-
 
 ---
 
-## Motto
+## Connect
 
-> "Har Har Mahadev" - Stay strong and unstoppable.
+- 📧 Email: [hello@evolex.in](mailto:hello@evolex.in)
+- 💼 LinkedIn: [linkedin.com/company/jrutkarss](https://linkedin.com/company/jrutkarss)
+- 🌐 Website: [evolex.in](https://evolex.in)
+- 🐦 Twitter/X: [x.com/jrutkarss](https://x.com/jrutkarss)
 
 ---
 
-Thank you for visiting jrutkarss's GitHub profile. Explore our repositories and get in touch for collaboration or projects.
+> "Build things that matter."
+
+Thanks for visiting — explore the repos and reach out for collaboration!
