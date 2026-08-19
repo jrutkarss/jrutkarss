@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Hi, I'm Utkarsh 👋
 ### Full-Stack Developer | AI & ML Engineer | DEVSECOPS Engineer
 
@@ -70,7 +69,8 @@ I specialize in CRM/ERP systems, automation bots, and data science projects.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jrutkarss&theme=radical&row=1&column=7" />
 </div>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="utkarss" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/utkarss?trk=profile-badge">Utkarsh Kumar</a></div>
+              
 ---
 
 ## Connect
