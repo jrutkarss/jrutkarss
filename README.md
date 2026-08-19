@@ -68,7 +68,8 @@ I specialize in CRM/ERP systems, automation bots, and data science projects.
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jrutkarss&theme=radical&row=1&column=7" />
-</div>            
+</div>
+
 ---
 
 ## Connect
