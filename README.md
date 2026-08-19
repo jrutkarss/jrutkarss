@@ -1,19 +1,19 @@
 # Hi, I'm Utkarsh 👋
-### Full-Stack Developer | ML Engineer | Founder @ Evolex
+### Full-Stack Developer | AI & ML Engineer | DEVSECOPS Engineer
 
 ---
 
 ## About Me
 
 I build and deploy innovative **web applications** and **machine learning solutions** 
-for startups and growing businesses. As the founder of [Evolex](https://evolex.in), 
+for startups and growing businesses. As the founder of [Easik](https://easik.in), 
 I specialize in CRM/ERP systems, automation bots, and data science projects.
 
-- 💻 Full-stack expertise in PHP (CodeIgniter4, Laravel) and Python (Django, ML)
-- 🤖 Builder of automation bots for Google reviews and QR-based workflows
-- 🧠 ML practitioner — Kaggle competitor with ESA & Russian-domain projects
-- 🚀 Cloud deployments on Google Cloud and Hostinger VPS
-- 📈 Experience in SEO, Meta Ads, and social media growth strategies
+- 💻 Full-stack expertise in PHP (CodeIgniter4) and Python (Django, ML)
+- 🤖 Builder of automation bots for Google reviews and QR-based workflows ++
+- 🧠 ML practitioner — Kaggle competitor with ESA & Russian-domain projects ++
+- 🚀 Cloud deployments on Google Cloud , AWS EC2 and Hostinger VPS 
+- 📈 Experience in SEO, Meta Ads, and social media growth strategies,Software Development
 
 ---
 
@@ -21,10 +21,11 @@ I specialize in CRM/ERP systems, automation bots, and data science projects.
 
 | Backend                     | Frontend                  | DevOps & Tools              | Additional Expertise         |
 |-----------------------------|---------------------------|-----------------------------|------------------------------|
-| PHP (CodeIgniter4, Laravel) | HTML, CSS, JavaScript     | Docker, Git, Composer       | Automation Bots              |
-| Python (Django)             | Bootstrap, jQuery, Ajax   | Google Cloud, Hostinger VPS | SEO & Digital Marketing      |
-| MySQL, SQL                  | Tailwind CSS, Alpine.js   | ERPNext/Frappe Deployment   | CRM & ERP Customization      |
-| REST API Development        |                           | Payment Gateway Integration | Twilio SMS & OTP Services    |
+| PHP (CodeIgniter4)          | HTML, CSS, JavaScript     | Docker, Git, Composer,Vercel| Automation Bots(Python Based)|
+| Python (Django)             | Bootstrap,                | Google Cloud, Hostinger VPS,| SEO & Digital Marketing      |
+| MySQL, SQLite               | Tailwind CSS              | Railway , Render Deployment | CRM & ERP Customization      |
+| REST API Development        | Fontawasome               | Payment Gateway Integration | Linux based OS and Servers   |
+| Worpress, Shopify           | Material UI, Figma        | CI/CD PipeLining            | Machine Learning and AI      |
 
 ---
 
@@ -34,7 +35,7 @@ I specialize in CRM/ERP systems, automation bots, and data science projects.
 - Full-stack CRM platform with custom views, controllers, and models for client onboarding.
 - Integrated Stripe payment gateway and Twilio messaging APIs.
 
-### 🔷 Russian Car Number Plate Price Prediction
+### 🔷 Russian Car Number Plate Price Prediction ( kaggle Competition)
 - ML regression model predicting resale price of Russian vehicle plates from Kaggle data.
 - Worked with real marketplace data from aggregators and Telegram channels.
 
@@ -49,6 +50,10 @@ I specialize in CRM/ERP systems, automation bots, and data science projects.
 ### 🔷 ERPNext Deployment & Customization
 - Tailored ERPNext setup on Linux and cloud environments.
 - Automated migrations and bench commands for efficient CRM operations.
+
+### 🔷 Google Map Scraper ( Archived in Github Public)
+- Best for Collecting information about Google My Business
+- It can be used for experiments and collecting data for kaggle
 
 ---
 
@@ -69,9 +74,9 @@ I specialize in CRM/ERP systems, automation bots, and data science projects.
 
 ## Connect
 
-- 📧 Email: [hello@evolex.in](mailto:hello@evolex.in)
-- 💼 LinkedIn: [linkedin.com/company/jrutkarss](https://linkedin.com/company/jrutkarss)
-- 🌐 Website: [evolex.in](https://evolex.in)
+- 📧 Email: [hello@utkarss.com](mailto:hello@utkarss.com)
+- 💼 LinkedIn: [linkedin.com/company/jrutkarss](https://linkedin.com/in/utkarss)
+- 🌐 Website: [utkarss.com](https://utkarss.com)
 - 🐦 Twitter/X: [x.com/jrutkarss](https://x.com/jrutkarss)
 
 ---
