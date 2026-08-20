@@ -76,7 +76,7 @@ I build and deploy innovative **web applications** and **machine learning soluti
 
 ## Featured Projects
 
-### 🔷 Evolex CRM System
+### 🔷 Easik CRM System
 Full-stack CRM platform with custom views, controllers, and models for client onboarding. Integrated Stripe payment gateway and Twilio messaging APIs.
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
