@@ -157,4 +157,4 @@ Collects information about Google My Business listings. Useful for experiments a
 <p align="center"><i>"Build things that matter."</i></p>
 <p align="center">Thanks for visiting — explore the repos and reach out for collaboration!</p>
 
-<center>[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/jrutkarss)</center>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/jrutkarss)
