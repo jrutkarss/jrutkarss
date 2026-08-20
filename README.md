@@ -126,20 +126,20 @@ Collects information about Google My Business listings. Useful for experiments a
 ---
 
 ## GitHub Stats
-
+<!---
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrutkarss&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrutkarss&layout=compact&theme=radical" />
 </div>
-
+----->
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrutkarss&theme=radical&hide_border=true" />
 </div>
-
+<!---
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jrutkarss&theme=radical&row=1&column=7" />
 </div>
-
+---->
 ---
 
 ## Connect
