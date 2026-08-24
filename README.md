@@ -135,11 +135,6 @@ Collects information about Google My Business listings. Useful for experiments a
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jrutkarss's Github Stats" src="https://jrutkarss-github-readme-stats.vercel.app/api/?username=jrutkarss&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jrutkarss's Top Languages" src="https://jrutkarss-github-readme-stats.vercel.app/api/top-langs/?username=jrutkarss&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-  </div>
 
 [![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jrutkarss)](https://github.com/jrutkarss/github-readme-activity-graph)
 
