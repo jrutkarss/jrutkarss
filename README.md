@@ -133,7 +133,9 @@ Collects information about Google My Business listings. Useful for experiments a
 </div>
 ----->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrutkarss&theme=radical&hide_border=true" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jrutkarss&theme=dark)](https://git.io/streak-stats)
+
 </div>
 <!---
 <div align="center">
