@@ -134,7 +134,7 @@ Collects information about Google My Business listings. Useful for experiments a
 ----->
 <div align="center">
 
-<a href="https://git.io/streak-stats><img src="./profile/streak.svg" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jrutkarss&theme=telegram&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 </div>
 <!---
